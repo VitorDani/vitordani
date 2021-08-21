@@ -1,4 +1,12 @@
-### Prazer, eu sou o Vitor Lorena 👋
+### Prazer, eu sou o Vitor Lorena   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+
+ - 🚀 Atualmente estou estudando na Generation Brasil
+ - ❤️ Apaixonado por filmes, música e jogos online
+ - ✨ A falha é o sucesso em andamento
+
+
+##
+
 
 <div>
   <a href="https://github.com/vitordani">
@@ -7,12 +15,19 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Van-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
-  <img align="center" alt="Van-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Vitor-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Vitor-Mysql"height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Vitor-Spring" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Vitor-JavaScript" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Vitor-C" height="40" width="35" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="right" alt="Vitor-gif" height="150" width="300" src="https://c.tenor.com/nwBMOVfhuS0AAAAC/darth-vader-im-ready.gif">
 </div>
   
-  ##
+  ##  
+  
   
 <div>
-  <a href="https://www.linkedin.com/in/vitor-lorena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vitor-lorena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link" target="_blank"></a>
+  <a href = "mailto:vitord2002@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link" target="_blank"></a>
 </div>
