@@ -9,7 +9,7 @@
 
 
 <div>
-  <a href="https://github.com/vitordani">
+  <a href="https://github.com/vitorlorena">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitordani&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordani&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
