@@ -19,7 +19,7 @@
   <img align="center" alt="Vitor-Mysql"height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Vitor-Spring" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Vitor-JavaScript" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Vitor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Leo-angularjs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Vitor-C" height="40" width="35" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="right" alt="Vitor-gif" height="150" width="300" src="https://c.tenor.com/nwBMOVfhuS0AAAAC/darth-vader-im-ready.gif">
 </div>
