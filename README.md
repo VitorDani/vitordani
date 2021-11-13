@@ -31,6 +31,6 @@
   <a href="https://www.linkedin.com/in/vitor-lorena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link" target="_blank"></a>
   <a href = "mailto:vitord2002@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link" target="_blank"></a>
  
-   ![Snake animation](https://github.com/vitorLorena/vitorLorena/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/VitorLorena/VitorLorena/blob/output/github-contribution-grid-snake.svg)
  
 </div>
