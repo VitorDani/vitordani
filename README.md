@@ -1,6 +1,6 @@
 ### Prazer, eu sou o Vitor Lorena   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
- - 🚀 Atualmente estou estudando na Generation Brasil
+ - 🚀 Formado como desenvolvedor web java na Generation Brasil
  - ❤️ Apaixonado por filmes, música e jogos online
  - ✨ A falha é o sucesso em andamento
 
